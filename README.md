@@ -51,6 +51,7 @@ Users can add reminders with date, time, and repetition options, and manage them
 
 <p align="left">
   <img src="Documents/screenshot8.png" alt="Sub Screen" width="250"/>
+  <img src="Documents/screenshot9.png" alt="Sub Screen" width="250"/>
 </p>  
 
 ---
