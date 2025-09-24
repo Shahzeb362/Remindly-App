@@ -22,7 +22,7 @@ Users can add reminders with date, time, and repetition options, and manage them
 ## Launch Screen  
 
 <p align="left">
-  <img src="Documents/screenshot1.png" alt="Launch Screen" width="250"/>
+  <img src="Documents/screenshot1.png" alt="Launch Screen" width="250" style="border-radius:15px;"/>
 </p>  
 
 ---
@@ -30,9 +30,9 @@ Users can add reminders with date, time, and repetition options, and manage them
 ## Main Screen  
 
 <p align="left">
-  <img src="Documents/screenshot2.png" alt="Main Screen" width="250"/>
-  <img src="Documents/screenshot3.png" alt="Main Screen" width="250"/>
-  <img src="Documents/screenshot4.png" alt="Main Screen" width="250"/>
+  <img src="Documents/screenshot2.png" alt="Main Screen" width="250" style="border-radius:15px;"/>
+  <img src="Documents/screenshot3.png" alt="Main Screen" width="250" style="border-radius:15px;"/>
+  <img src="Documents/screenshot4.png" alt="Main Screen" width="250" style="border-radius:15px;"/>
 </p>  
 
 ---
@@ -40,9 +40,9 @@ Users can add reminders with date, time, and repetition options, and manage them
 ## Sub Screen  
 
 <p align="left">
-  <img src="Documents/screenshot5.png" alt="Sub Screen" width="250"/>
-  <img src="Documents/screenshot6.png" alt="Sub Screen" width="250"/>
-  <img src="Documents/screenshot7.png" alt="Sub Screen" width="250"/>
+  <img src="Documents/screenshot5.png" alt="Sub Screen" width="250" style="border-radius:15px;"/>
+  <img src="Documents/screenshot6.png" alt="Sub Screen" width="250" style="border-radius:15px;"/>
+  <img src="Documents/screenshot7.png" alt="Sub Screen" width="250" style="border-radius:15px;"/>
 </p>  
 
 ---
@@ -50,8 +50,8 @@ Users can add reminders with date, time, and repetition options, and manage them
 ## Adding Remainder Screen  
 
 <p align="left">
-  <img src="Documents/screenshot8.png" alt="Sub Screen" width="250"/>
-  <img src="Documents/screenshot9.png" alt="Sub Screen" width="250"/>
+  <img src="Documents/screenshot8.png" alt="Sub Screen" width="250" style="border-radius:15px;"/>
+  <img src="Documents/screenshot9.png" alt="Sub Screen" width="250" style="border-radius:15px;"/>
 </p>  
 
 ---
