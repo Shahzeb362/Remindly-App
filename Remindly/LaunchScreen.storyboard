@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="remaindly icon" translatesAutoresizingMaskIntoConstraints="NO" id="UcS-wC-L8h">
+                                <rect key="frame" x="80" y="259" width="233" height="180"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="233" id="pb2-X4-3In"/>
+                                    <constraint firstAttribute="height" constant="180" id="vmz-8l-z38"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Remindly" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dJp-ev-a4f">
+                                <rect key="frame" x="100" y="441" width="200" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="LMg-4P-JAe"/>
+                                    <constraint firstAttribute="width" constant="200" id="hZc-Y9-fRl"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="38"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.069685414429999995" green="0.53605544569999997" blue="0.94824737309999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="UcS-wC-L8h" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" constant="80" id="6yi-TF-nnS"/>
+                            <constraint firstItem="UcS-wC-L8h" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="7sU-CC-Fha"/>
+                            <constraint firstItem="UcS-wC-L8h" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="200" id="9AH-7z-tTu"/>
+                            <constraint firstItem="dJp-ev-a4f" firstAttribute="top" secondItem="UcS-wC-L8h" secondAttribute="bottom" constant="2" id="emo-0x-dXZ"/>
+                            <constraint firstItem="dJp-ev-a4f" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="100" id="k30-fb-4p5"/>
+                            <constraint firstAttribute="trailing" secondItem="UcS-wC-L8h" secondAttribute="trailing" constant="80" id="kGM-7w-Tlr"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="remaindly icon" width="1024" height="1024"/>
+    </resources>
+</document>
